@@ -17,12 +17,12 @@ I made every components by myself (buttons, checkbox, etc...), so if you need to
 
 # Social medias 
 
-- Twitter : https://twitter.com/Fromont_Sam?lang=fr
+- Twitter : https://twitter.com/Fromont_Sam
 - LinkedIn : https://www.linkedin.com/in/fromont-sam/
 - YouTube : https://www.youtube.com/channel/UC6-lC8FAfAW_rlPZu4qCYvg
 
 # Panels presentation
-There is no panels in SFML but I keep speaking about panels when I create views with every kind of technologies. That's because my first GUIs where made with Java Swing, so don't pay attention about that :) 
+There is no panels in SFML but I keep speaking about panels when I create views with every kind of technologies. That's because my first GUIs were made with Java Swing, so don't pay attention about that :) 
 ## Menu panel
 This panel doesn't contain a lot of things but it links every other panels so that's the most important view of the game
 
