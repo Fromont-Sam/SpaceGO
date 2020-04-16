@@ -11,6 +11,8 @@ You'll need SFML to build and run this project. For more information, go to the 
 
 Once you've installed SFML you can clone this project and build it with CMake. 
 
+Tutorial using CMake here : https://www.youtube.com/watch?v=Q7dRfr5sSQc
+
 I made all components by myself (buttons, checkbox, etc...). I'd be happy to see you using them in your own projects, if you want to. Don't hesitate and tell me about it! :D
 
 # Social medias 
