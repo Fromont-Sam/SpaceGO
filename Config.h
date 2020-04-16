@@ -1,6 +1,7 @@
 #include <vector>
 #include <algorithm>
 #include <functional>
+#include <string>
 #pragma warning(disable:4996)
 #pragma once
 class Config
